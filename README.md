@@ -7,6 +7,8 @@ Para utilizar o Grid basta chamar no main.css o grid correspondente ao numero de
 Ex @import url(libs/grid_960_12.css);
 http://960.gs/
 
+Chamar os scripts no final da pagina.
+
 
 
 
